@@ -1,7 +1,7 @@
 th, td {
   background-color: #2852FE;
-  border-right: 2px solid #0000ff;
-  border-bottom: 2px solid #0000ff;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
   width: 60px;
-  height: 100px;
+  height: 60px;
 }
