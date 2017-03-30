@@ -1,4 +1,4 @@
-table#1 th td {
+table#1 th, td {
   background-color: #2852FE;
   border-right: 2px solid #0000ff;
   border-bottom: 2px solid #0000ff;
