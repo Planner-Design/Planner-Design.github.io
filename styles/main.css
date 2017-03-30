@@ -1,4 +1,10 @@
-th.1, td.1 {
+th.1 {
+  background-color: #2852FE;
+  border: 2px solid black;
+  width: 60px;
+  height: 60px;
+}
+td.1 {
   background-color: #2852FE;
   border: 2px solid black;
   width: 60px;
